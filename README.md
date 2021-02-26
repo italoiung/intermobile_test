@@ -41,6 +41,7 @@ Você é livre para escolher as tecnologias que preferir para a construção des
 - [**Prints do Design**](/resources/design): Além do link do Figma, prints do design também estão disponíveis na pasta `resources/design` deste repositório (em tamanho 1x).
 - [**Imagens dos Filmes**](/resources/assets): Na pasta `resources/assets` você tem as imagens de cada filme, que não são fornecidas pela API. Você pode renomeá-las como achar necessário.
 - [**Logo Star Wars**](/resources/assets/star-wars-logo.svg) - Também na pasta `resources/assets`, temos a logo utilizada no header das páginas.
+- [**Fonte Montserrat**](https://fonts.google.com/specimen/Montserrat) - Você pode pegar a fonte que está sendo usada no design pelo **Google Fonts**.
 
 ## Enviando seu projeto
 
