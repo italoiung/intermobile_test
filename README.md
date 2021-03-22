@@ -14,7 +14,7 @@ Este desafio tem como objetivo avaliar suas habilidades como desenvolvedor Front
 
 ## O Desafio
 
-Seu desafio será montar um website simples consumindo dados de uma API pública, montando uma página inicial com uma listagem, e as páginas internas de cada item, seguindo o design proposto.
+Seu desafio será montar um website simples, com 2 templates de página, consumindo dados de uma API pública, montando uma página inicial com uma listagem, e as páginas internas de cada item, seguindo o design proposto.
 
 ![Home](/resources/design/home.png) ![Interna](/resources/design/post.png)
 
