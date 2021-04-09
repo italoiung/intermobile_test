@@ -31,7 +31,6 @@ Você é livre para escolher as tecnologias que preferir para a construção des
 - Seguir o design e style guide proposto;
 - Usar os dados da API para montar as páginas dinamicamente;
 - Escrever código em inglês (arquivos, funções e variáveis), se possível;
-- Ao clicar nos botões `Release Date` e `Chronological` a lista deve ser reordenada respectivamente por **data de lançamento** (`release_date`) ou **ordem cronológica** da história (I, II, III, IV, V e VI);
 - O link no rodapé deve mandar para o site oficial https://www.starwars.com/
 - A logo deve conter um link para voltar para a página inicial.
 
