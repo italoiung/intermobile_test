@@ -1,12 +1,12 @@
 import styled from 'styled-components'
 
 const FooterWrapper = styled.footer`
-  margin: 0 -3.125rem;
-  max-width: calc(100% + 3.125rem * 2);
   padding: 2rem 0;
   text-align: center;
   ${({ theme }) =>
-    theme.lg(`
+  theme.lg(`
+    margin: 0 -3.125rem;
+    max-width: calc(100% + 3.125rem * 2);
     display: flex;
     justify-content: center;
   `)}
