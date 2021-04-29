@@ -62,6 +62,7 @@ const Meta = styled.h3`
   max-width: 10.625rem;
   margin: 0 1.25rem 1.75rem 0;
   font-size: 1rem;
+  vertical-align: top;
   strong {
     display: block;
     color: ${({ theme }) => theme.colors.white};
