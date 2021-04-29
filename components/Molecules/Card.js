@@ -7,7 +7,7 @@ import Chapter from '../Atoms/Chapter'
 const intToRoman = (number) => {
   // Validate input
   if (isNaN(number)) return NaN
-  // Define indexes which index 0, 10 and 20 are empty so we can get the hundreds
+  // Define indexes so we can get a numeral until the hundreds. Indexes 0, 10 and 20 are empty to represent 0 numeral digit
   const key = [
     '',
     'C',
