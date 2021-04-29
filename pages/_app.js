@@ -122,7 +122,10 @@ const GlobalStyle = createGlobalStyle`
   }
   html {
     box-sizing: border-box;
-    font: normal 100% / 1.5 'Montserrat', sans-serif;
+    font: normal 85% / 1.5 'Montserrat', sans-serif;
+    ${theme.md(`
+      font-size: 100%;
+    `)}
   }
   body {
     background-color: ${theme.colors.black};
