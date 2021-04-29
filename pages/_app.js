@@ -155,9 +155,9 @@ const App = ({ Component, pageProps }) => (
       openGraph={{
         type: 'website',
         locale: 'pt_BR',
-        url: 'https://imfec.viung.me/',
+        url: 'http://imfec.viung.me/',
         site_name: 'Intermobile | Front-End Challenge',
-        images: [{ url: 'https://imfec.viung.me/resources/design/home.png' }],
+        images: [{ url: 'http://imfec.viung.me/resources/design/home.png' }],
       }}
     />
     <GlobalStyle />
